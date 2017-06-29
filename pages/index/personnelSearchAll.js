@@ -25,7 +25,7 @@ Page({
     this.loadCategoryList();
     this.loadProjects();
     wx.setNavigationBarTitle({
-      title: '项目'
+      title: '优美师'
     })
   },
   onReady: function () {
